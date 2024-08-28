@@ -1,0 +1,6 @@
+Islamabad,Lahore,1,undefine
+Islamabad,Peshawar,3,undefine
+Lahore,Peshawar,2,undefine
+Lahore,Karachi,6,undefine
+Peshawar,Lahore,8,undefine
+Peshawar,Karachi,1,undefine
